@@ -1,0 +1,1 @@
+# booking.com-clone-e2e-tests
